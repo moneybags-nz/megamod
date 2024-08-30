@@ -1,2 +1,2 @@
-# megamod
-Combines multiple mods into 1 mod.
+# Megamod for Age Of Mythology: Retold
+Combines Tripe tech mod, No population cap and Megaresource into one mod.
